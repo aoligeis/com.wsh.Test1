@@ -6,5 +6,6 @@ public class Main {
         System.out.println(b2);
         System.out.println("小王,小燃");
         System.out.println("ww");
+        System.out.println("qq");
     }
 }
