@@ -4,6 +4,6 @@ public class Main {
         Boolean b2 = Boolean.parseBoolean("为假");
         System.out.println(b1.toString());
         System.out.println(b2);
-        System.out.println("小王");
+        System.out.println("小王,小燃");
     }
 }
