@@ -8,6 +8,6 @@ public class Main {
         System.out.println("ww");
         System.out.println("qq");
         System.out.println("push test");
-        System.out.printLn("pull text")
+        System.out.println("pull text");
     }
 }
