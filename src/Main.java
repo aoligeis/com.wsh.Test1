@@ -10,5 +10,6 @@ public class Main {
         System.out.println("push test");
         System.out.println("pull text");
         System.out.println("gitee text");
+        System.out.println("xiawang");
     }
 }
